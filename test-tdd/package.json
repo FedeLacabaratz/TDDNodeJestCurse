@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Federico Lacabaratz",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
 }
